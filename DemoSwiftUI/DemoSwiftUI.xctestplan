@@ -1,0 +1,30 @@
+{
+  "configurations" : [
+    {
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:DemoSwiftUI.xcodeproj",
+        "identifier" : "A26F33D522A6BB71008D346A",
+        "name" : "DemoSwiftUITests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:DemoSwiftUI.xcodeproj",
+        "identifier" : "A26F33E022A6BB71008D346A",
+        "name" : "DemoSwiftUIUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

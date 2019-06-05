@@ -49,6 +49,7 @@
 		A26F33E122A6BB71008D346A /* DemoSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A26F33E522A6BB71008D346A /* DemoSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoSwiftUIUITests.swift; sourceTree = "<group>"; };
 		A26F33E722A6BB71008D346A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A26F33F322A762EF008D346A /* DemoSwiftUI.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = DemoSwiftUI.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +102,7 @@
 			children = (
 				A26F33C322A6BB6E008D346A /* AppDelegate.swift */,
 				A26F33C522A6BB6E008D346A /* SceneDelegate.swift */,
+				A26F33F322A762EF008D346A /* DemoSwiftUI.xctestplan */,
 				A26F33C722A6BB6E008D346A /* ContentView.swift */,
 				A26F33C922A6BB71008D346A /* Assets.xcassets */,
 				A26F33CE22A6BB71008D346A /* LaunchScreen.storyboard */,
