@@ -1,4 +1,4 @@
-# demo-xctest-testplan
+# Demo XCtest with test plan
 
 * Test Plan
 * SwiftUI
